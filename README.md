@@ -1,4 +1,5 @@
 # Stock Price Prediction Project
+![image](https://github.com/RahulDasari1/Microsoft_Stock_Price_Prediction/assets/101777162/6259ad01-6e3a-42ee-b67c-f303ca1434f9)
 
 ## Overview
 

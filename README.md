@@ -1,6 +1,6 @@
 # Stock Price Prediction Project
-<img src="" width=50% height=50%>
-![image](https://github.com/RahulDasari1/Microsoft_Stock_Price_Prediction/assets/101777162/6259ad01-6e3a-42ee-b67c-f303ca1434f9)
+<img src="stock price prediction.png" width=50% height=50%><img src="output.png" width=50% height=50%>
+
 
 ## Overview
 

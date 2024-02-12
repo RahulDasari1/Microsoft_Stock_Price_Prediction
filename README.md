@@ -97,3 +97,6 @@ If you would like to contribute to this project, please follow the guidelines ou
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to customize this README file based on your project's specific details and requirements. Good luck with your stock price prediction project!
+
+HappyCoding!
+-Rahul Dasari
